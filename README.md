@@ -12,9 +12,9 @@ npm i -S esbuild
 .\node_modules\.bin\esbuild --version
 ```
 
-### 1.3 体验一下
+### 体验一下
 
-#### 安装react和react-dom
+#### 1.3 安装react和react-dom
 
 ```js
 npm i react react-dom
